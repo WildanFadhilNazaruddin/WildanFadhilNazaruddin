@@ -23,7 +23,7 @@ I'm a passionate developer with a strong interest in web development, machine le
 - Machine learning
 
 ## 📫 How to Reach Me
-- Email: wildanfadhilnazaruddin@example.com
+- Email: wildanfadhil76@gmail.com
 - LinkedIn: [WildanFadhilNazaruddin](https://www.linkedin.com/in/wildanfadhilnazaruddin)
 - Twitter: [@WildanFadhilN](https://twitter.com/WildanFadhilN)
 
